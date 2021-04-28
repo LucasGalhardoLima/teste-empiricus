@@ -3,8 +3,8 @@
 import Vue from "vue";
 import axios from "axios";
 
-axios.defaults.headers.common["Authorization"] =
-  "token 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";
+// axios.defaults.headers.common["Authorization"] =
+//   "token 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";
 
 let config = {
   baseURL: " https://api.github.com/",
