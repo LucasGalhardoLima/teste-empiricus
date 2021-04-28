@@ -3,3 +3,10 @@
     <router-view />
   </div>
 </template>
+
+<style lang="scss" scoped>
+#app {
+  height: 100vh;
+  background: #00bf92;
+}
+</style>
